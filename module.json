@@ -30,6 +30,6 @@
   ],
   "url": "https://github.com/gbruckner/map-pack",
   "manifest": "",
-  "download": "https://github.com/gbruckner/map-pack/archive/refs/tags/v1.0.zip",
+  "download": "https://github.com/gbruckner/map-pack/archive/refs/heads/main.zip",
   "manifestPlusVersion": "1.2.0"
 }
