@@ -7,3 +7,4 @@ Credits:
 - Small Desert Oasis: Myself (generated with Dungeon Alchemist)
 - Small Forest: Myself (generated with Dungeon Alchemist)
 - Small Icefield: Myself (generated with Dungeon Alchemist)
+- Alchemie Labor: Myself (generated with Dungeon Alchemist)
