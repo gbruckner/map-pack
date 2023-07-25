@@ -8,3 +8,5 @@ Credits:
 - Small Forest: Myself (generated with Dungeon Alchemist)
 - Small Icefield: Myself (generated with Dungeon Alchemist)
 - Alchemie Labor: Myself (generated with Dungeon Alchemist)
+
+- several Sound Effects from pixabay.com
